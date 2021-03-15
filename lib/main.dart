@@ -102,9 +102,9 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
             ),
             ButtonBar(
               children: <Widget>[
-                FlatButton(
-                  child: Text('Spin'),
-                  color: Colors.blue,
+                TextButton(
+                  child: Text('Spin',style: TextStyle(color: Colors.white),),
+                  style: TextButton.styleFrom(backgroundColor: Colors.green),
                   onPressed: () {
                     this.press();
                   },
