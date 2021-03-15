@@ -55,7 +55,7 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
     Colors.purple,
     Colors.teal.shade100
   ];
-
+  bool display = false;
   @override
   Widget build(BuildContext context) {
     final items = <String>[
@@ -79,6 +79,13 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
           children: <Widget>[
             Expanded(
               child: FortuneWheel(
+                animateFirst: false,
+                onAnimationEnd: () { setState(() {
+                  display = true;
+                });},
+                onAnimationStart: () {  setState(() {
+                  display = false;
+                });},
                 selected: selected,
                 items: [
                   for (var it in items)
@@ -111,7 +118,7 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
                 ),
               ],
             ),
-            Text(items[selected])
+            Text(display ? items[selected] : '')
           ],
         ),
       ),
