@@ -1,6 +1,11 @@
 <component name="libraryTable">
   <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
-    <CLASSES />
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../flutter/.pub-cache/hosted/pub.dartlang.org/google_mobile_ads-0.11.0+3" />
+      <root url="file://$PROJECT_DIR$/../flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-6.0.16" />
+      <root url="file://$PROJECT_DIR$/../flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.0.1" />
+      <root url="file://$PROJECT_DIR$/../flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.0.1" />
+    </CLASSES>
     <JAVADOC />
     <SOURCES />
   </library>
