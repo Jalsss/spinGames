@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>578430737822-20id2qf7qmjju5vs3atvaqhum7s3u0no.apps.googleusercontent.com</string>
+	<string>578430737822-n72vlre1lqvvrhnn6vep0iqo1sd12kpv.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.578430737822-20id2qf7qmjju5vs3atvaqhum7s3u0no</string>
+	<string>com.googleusercontent.apps.578430737822-n72vlre1lqvvrhnn6vep0iqo1sd12kpv</string>
 	<key>API_KEY</key>
 	<string>AIzaSyDB9wS8iXkSQsq3gsgcGM6Vzji4YCSqETs</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>uongruou.izilife.vn</string>
+	<string>zozo.izilife.vn</string>
 	<key>PROJECT_ID</key>
 	<string>izilife-c07db</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:578430737822:ios:71d1d24a4fe0c018860a8f</string>
+	<string>1:578430737822:ios:187847fdcd3235ca860a8f</string>
 </dict>
 </plist>

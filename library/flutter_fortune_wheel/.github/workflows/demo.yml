@@ -1,0 +1,38 @@
+name: Release demo
+on:
+  push:
+    branches:
+      - releases/demo
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@master
+      - uses: actions/setup-java@master
+        with:
+          java-version: "12.x"
+      - uses: subosito/flutter-action@v1
+        with:
+          channel: "beta"
+
+      - run: flutter config --enable-web
+
+      - run: flutter pub get
+      - run: flutter test
+
+      - run: flutter pub get
+        working-directory: ./demo
+      - run: flutter packages pub run build_runner build
+        working-directory: ./demo
+      - name: build demo
+        working-directory: ./demo
+        run: flutter build web --web-renderer auto
+
+      - name: deploy to Github Pages
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: demo/build/web

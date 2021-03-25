@@ -43,6 +43,42 @@
     },
     {
       "client_info": {
+        "mobilesdk_app_id": "1:578430737822:android:6a1959539833c63f860a8f",
+        "android_client_info": {
+          "package_name": "cookingmom.izilife.vn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578430737822-pas5n1af7fihdh8jc7g4v4gf0g7b1s3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUk3jHGAUoIYVev1AxnAuHb1D_qsuxDwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578430737822-pas5n1af7fihdh8jc7g4v4gf0g7b1s3b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "578430737822-05odsk3rn6k42sc9jsu8toirg587r9c6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "izicrush.izilife.vn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:578430737822:android:108a61b5c3492d19860a8f",
         "android_client_info": {
           "package_name": "foodmom.izilife.vn"
@@ -224,9 +260,9 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:578430737822:android:dae351a44c4c90bf860a8f",
+        "mobilesdk_app_id": "1:578430737822:android:96587b5319f46f39860a8f",
         "android_client_info": {
-          "package_name": "uongruou.izilife.vn"
+          "package_name": "zozo.izilife.vn"
         }
       },
       "oauth_client": [

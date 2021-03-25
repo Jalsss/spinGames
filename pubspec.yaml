@@ -18,19 +18,26 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.12.0-0.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
 
+  flutter_fortune_wheel:
+    path: ../spinGames/library/flutter_fortune_wheel
+
+  audioplayers: ^0.16.0
   google_mobile_ads: ^0.11.0+3
   provider: ^4.3.3
-  flutter_spinning_wheel : ^1.1.0
-  flutter_fortune_wheel: ^0.4.2
   http: ^0.13.0
+  screen: ^0.0.5
   firebase_messaging: ^6.0.16
   firebase_core: ^1.0.1
+  flutter_secure_storage: ^4.1.0
+  open_appstore: ^1.0.2
+  flutter_native_splash: ^0.3.2
+  connectivity: ^0.4.2
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
@@ -41,14 +48,31 @@ dev_dependencies:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
-
+flutter_native_splash:
+  color: "#ffffff"
+  background_image: "launch_image.png"
+  web: false
 # The following section is specific to Flutter.
 flutter:
-
+  assets:
+    - backgroundMusic.mp3
+    - bg-beer.jpg
+    - Buttton-QuayTiep.png
+    - beer-bottle.png
+    - 1.png
+    - 2.png
+    - 3.png
+    - 4.png
+    - 5.png
+    - 6.png
+    - 7.png
+    - 8.png
+    - launch_image.png
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg

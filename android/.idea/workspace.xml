@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b42f8fbb-2a52-47d8-b861-7353b60c4886" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/Buttton-QuayTiep.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/backgroundMusic.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/beer-bottle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/bg-beer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/launch_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/LaunchBackground.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/LaunchBackground.imageset/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/local_storage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/.github/workflows/coverage.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/.github/workflows/demo.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/.github/workflows/release.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/.github/workflows/test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/dartdoc_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/android/app/src/main/kotlin/com/example/example/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/web/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/web/icons/Icon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/web/icons/Icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/example/web/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/images/img-bar-anim.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/images/img-wheel-256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/images/img-wheel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/images/wheel-spin.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/flutter_fortune_wheel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/bar/bar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/bar/fortune_bar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/bar/infinite_bar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/bar/item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/core/animations.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/core/core.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/core/fortune_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/core/fortune_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/core/pan_detector.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/core/random.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/core/styling.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/indicators/indicators.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/indicators/rectangle.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/indicators/rectangle_indicator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/indicators/shared.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/indicators/triangle.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/indicators/triangle_indicator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/util.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/wheel/fortune_wheel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/wheel/slice.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/wheel/slice_clipper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/wheel/slice_layout_delegate.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/wheel/slice_painter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/wheel/sliced_circle.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/wheel/wheel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/lib/src/wheel/wheel_indicator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/test/fortune_bar_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/test/fortune_wheel_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/test/indicator_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/test/test_helpers.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/test/triangle_indicator_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/flutter_fortune_wheel/test/util_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/../.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/../.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/spinGames.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/spinGames.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.packages" beforeDir="false" afterPath="$PROJECT_DIR$/../.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Flutter/Generated.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Flutter/Generated.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/GeneratedPluginRegistrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/GeneratedPluginRegistrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/GeneratedPluginRegistrant.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/GeneratedPluginRegistrant.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/GoogleService-Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/GoogleService-Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/generated_plugin_registrant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/generated_plugin_registrant.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qCGXZw7EpqISI8A33OLGtKuW3B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="E:/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b42f8fbb-2a52-47d8-b861-7353b60c4886" name="Default Changelist" comment="" />
+      <created>1616576198440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616576198440</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="474" y="110" key="FileChooserDialogImpl" timestamp="1616576294204">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="474" y="110" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1616576294204" />
+  </component>
+</project>
