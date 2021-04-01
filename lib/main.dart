@@ -30,9 +30,9 @@ String bannerAdUnitId = Platform.isAndroid
     ? 'ca-app-pub-3940256099942544/6300978111'
     : 'ca-app-pub-8585499129481868/5093586990';
 var client = http.Client();
-var version = Platform.isAndroid ? '1.1' : '1.0';
+var version = Platform.isAndroid ? '1.2' : '1.0';
 bool isVersion = true;
-
+var linkup = '';
 Future<bool> check() async {
   var connectivityResult = await (Connectivity().checkConnectivity());
   if (connectivityResult == ConnectivityResult.mobile) {
@@ -61,6 +61,7 @@ void main() async {
         var dataVs = Platform.isAndroid
             ? json.decode(res.body)['data']['a_Version']
             : json.decode(res.body)['data']['i_Version'];
+        linkup = Platform.isAndroid ? json.decode(res.body)['data']['a_LinkUp'] : json.decode(res.body)['data']['i_LinkUp'];
         if (version != dataVs) {
           isVersion = false;
         }
@@ -290,14 +291,14 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
       '8',
     ];
     final itemss = <String>[
-      'Thêm lượt',
-      'Uống nhấp môi',
-      'Chỉ định',
-      'Uống nửa ly',
       'Qua lượt',
+      'Uống bên trái',
+      'Uống nửa ly',
+      'Uống hai ly',
+      'Chỉ định',
+      'Uống bên phải',
       'Uống cạn ly',
       'Đồng khởi',
-      'Uống hai ly',
     ];
 
     return DecoratedBox(
@@ -476,8 +477,8 @@ class _MyDialogState extends State<MyDialog> {
           TextButton(
               onPressed: () {
                 OpenAppstore.launch(
-                    androidAppId: "com.facebook.katana&hl=ko",
-                    iOSAppId: "284882215");
+                    androidAppId: linkup,
+                    iOSAppId: linkup);
               },
               child: Text('Cập nhật'))
         ]);
