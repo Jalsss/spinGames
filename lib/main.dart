@@ -1,6 +1,8 @@
 // @dart=2.9
 import 'dart:io';
+import 'package:audioplayers/audio_cache.dart';
 import 'package:audioplayers/audioplayers.dart';
+import 'package:connectivity/connectivity.dart';
 import 'package:flutter/cupertino.dart';
 import 'dart:math';
 import 'dart:async';
@@ -17,12 +19,12 @@ import 'package:http/http.dart' as http;
 import 'ad_state.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'local_storage.dart';
-import 'package:audioplayers/audio_cache.dart';
 import 'package:open_appstore/open_appstore.dart';
-import 'package:screen/screen.dart';
-import 'package:connectivity/connectivity.dart';
+import 'screen.dart';
 import 'package:flutter/services.dart' ;
 import 'package:flutter/gestures.dart';
+
+
 var url = 'api.keng.com.vn';
 final _storage = new LocalStorage();
 
@@ -30,7 +32,7 @@ String bannerAdUnitId = Platform.isAndroid
     ? 'ca-app-pub-3940256099942544/6300978111'
     : 'ca-app-pub-8585499129481868/5093586990';
 var client = http.Client();
-var version = Platform.isAndroid ? '1.2' : '1.0';
+var version = Platform.isAndroid ? '1.2' : '1.3';
 bool isVersion = true;
 var linkup = '';
 Future<bool> check() async {
@@ -119,7 +121,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
   BannerAd banner;
   final StreamController _dividerController = StreamController<int>();
-  FirebaseMessaging _firebaseMessaging = FirebaseMessaging();
+  FirebaseMessaging _firebaseMessaging = FirebaseMessaging.instance;
   AudioCache audioCache = AudioCache();
   AudioPlayer advancedPlayer = AudioPlayer();
   int selected = Random().nextInt(8);
@@ -222,28 +224,22 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
         }
       }
     });
-    _firebaseMessaging.configure(
-      onMessage: (Map<String, dynamic> message) async {
-        print('on message $message');
-      },
-      onResume: (Map<String, dynamic> message) async {
-        print('on resume $message');
-      },
-      onLaunch: (Map<String, dynamic> message) async {
-        print('on launch $message');
-      },
-    );
+
   }
 
   bool display = false;
   bool isFirstTime = true;
+
   void iOS_Permission() {
-    _firebaseMessaging.requestNotificationPermissions(
-        IosNotificationSettings(sound: true, badge: true, alert: true));
-    _firebaseMessaging.onIosSettingsRegistered
-        .listen((IosNotificationSettings settings) {
-      print("Settings registered: $settings");
-    });
+    _firebaseMessaging.requestPermission(
+        alert: true,
+        announcement: false,
+        badge: true,
+        carPlay: false,
+        criticalAlert: false,
+        provisional: false,
+        sound: true,);
+
   }
   var checkValue = 8;
 
@@ -446,6 +442,8 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
         ));
   }
 }
+
+
 
 class MyDialog extends StatefulWidget {
   @override

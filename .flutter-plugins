@@ -1,11 +1,13 @@
 # This is a generated file; do not edit or check into version control.
-audioplayers=D:\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\audioplayers-0.16.1\\
-connectivity=D:\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\connectivity-0.4.6+2\\
-firebase_core=D:\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-1.0.2\\
-firebase_core_web=D:\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core_web-1.0.2\\
-firebase_messaging=D:\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_messaging-6.0.16\\
-flutter_secure_storage=D:\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_secure_storage-4.1.0\\
-google_mobile_ads=D:\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_mobile_ads-0.11.0+4\\
-open_appstore=D:\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\open_appstore-1.0.2\\
-path_provider=D:\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider-1.6.1\\
-screen=D:\\Flutter\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\screen-0.0.5\\
+audioplayers=/Users/vananhnguyen/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.16.1/
+connectivity=/Users/vananhnguyen/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity-3.0.3/
+connectivity_for_web=/Users/vananhnguyen/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_for_web-0.4.0/
+connectivity_macos=/Users/vananhnguyen/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_macos-0.2.0/
+firebase_core=/Users/vananhnguyen/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.0.4/
+firebase_core_web=/Users/vananhnguyen/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.0.2/
+firebase_messaging=/Users/vananhnguyen/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-9.1.2/
+firebase_messaging_web=/Users/vananhnguyen/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging_web-1.0.5/
+flutter_secure_storage=/Users/vananhnguyen/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-4.1.0/
+google_mobile_ads=/Users/vananhnguyen/flutter/.pub-cache/hosted/pub.dartlang.org/google_mobile_ads-0.11.0+4/
+open_appstore=/Users/vananhnguyen/flutter/.pub-cache/hosted/pub.dartlang.org/open_appstore-1.0.2/
+path_provider=/Users/vananhnguyen/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.1/

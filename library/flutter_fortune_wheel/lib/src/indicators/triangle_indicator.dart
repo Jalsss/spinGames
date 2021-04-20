@@ -12,8 +12,8 @@ class TriangleIndicator extends StatelessWidget {
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
     return Transform.rotate(
-      angle: 0,
-      child: Transform.translate(offset: const Offset(0.0,-30.0), child: new Image.asset("beer-bottle.png",height: 70,width: 40,),
+      angle: 3.15,
+      child: Transform.translate(offset: const Offset(0.0,30.0), child: new Image.asset("beer-bottle.png",height: 60),
     ));
   }
 }
